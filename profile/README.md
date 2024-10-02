@@ -11,5 +11,5 @@ With Route Hub, you don't just redirect traffic—you direct it with purpose, en
 
 ## Current Projects
 - **GraphQL API:** [RouteHub.Service.GraphQL](https://github.com/RouteHub-Link/RouteHub.Service.GraphQL) This project is a B2B Link Shortener platform designed to empower businesses by providing a customizable and feature-rich solution for URL shortening. It offers a range of functionalities catering to the specific needs of organizations, allowing them to enhance brand visibility and control over their short links.
-- **The Dashboard** An Dashboard consumes GraphQL API.
-- **The Hub**  [RouteHub.Client.Hub](https://github.com/RouteHub-Link/RouteHub.Client.Hub) An deployable hub client.
+- **The Dashboard:** An Dashboard consumes GraphQL API.
+- **The Hub:**  [RouteHub.Client.Hub](https://github.com/RouteHub-Link/RouteHub.Client.Hub) An deployable hub client.
